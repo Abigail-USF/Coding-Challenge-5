@@ -69,5 +69,6 @@ employees.forEach(employee => {
     console.log(processPayroll(employee));
 });
 
-Finished Challenge 5: Payroll Toolkit!
+Completed Challenge 5: Payroll Toolkit!
+
 
